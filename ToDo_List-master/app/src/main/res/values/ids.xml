@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_save" type="id" />
+    <item name="note_text" type="id" />
+    <item name="completed" type="id" />
+    <item name="delete" type="id" />
+</resources>
